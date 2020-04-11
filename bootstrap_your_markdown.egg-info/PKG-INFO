@@ -1,0 +1,20 @@
+Metadata-Version: 1.2
+Name: bootstrap-your-markdown
+Version: 0.0.2
+Summary: 以 bootstrap 的网络格式化 md 文件
+Home-page: https://github.com/Neeky/bootstrap-your-markdown
+Author: Neeky
+Author-email: neeky@live.com
+Maintainer: Neeky
+Maintainer-email: neeky@live.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6.*

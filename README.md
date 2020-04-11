@@ -3,6 +3,7 @@
 
 ```python
 import markdown
+from bum import BootStrapExtension
 
 mdstr = """|**会话一**|**会话二**|**会话三**|
 |---------|---------|---------|

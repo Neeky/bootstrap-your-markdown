@@ -12,6 +12,10 @@ class BootstrapTreeprocessor(Treeprocessor):
             # 如果是 table
             if child.tag == 'table':
                 child.set("class", "table table-bordered table-dark")
+            elif child.tag == 'h2':
+                child.set("class", "h5 text-secondary mb-4")
+            # elif child.tag == 'img':
+            #    child.set("class","img-fluid")
         return node
 
 
